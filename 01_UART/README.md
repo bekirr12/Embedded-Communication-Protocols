@@ -65,8 +65,6 @@ In UART, data is sent in packets called "frames."
 
 **Idle State:** When there is no communication, the line is held constant at a logic '1' (HIGH) level.
 
-![UART Frame](https://i.imgur.com/7wG2b5p.png)
-
 The anatomy of a frame is as follows:
 
 1.  **Start Bit:** The transmitter initiates communication by pulling the line to '0' (LOW) for one bit duration. This is a "wake-up" signal for the receiver.
