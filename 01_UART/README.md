@@ -1,7 +1,5 @@
 # UART Communication Protocol
 
-[UART](https://img.shields.io/badge/Protocol-UART-blue.svg)
-
 This document serves as a detailed guide to the theoretical foundations, operational principles, and practical importance of the **UART (Universal Asynchronous Receiver-Transmitter)** communication protocol. It is a fundamental building block for debugging and inter-device serial communication in embedded systems.
 
 ## Table of Contents
